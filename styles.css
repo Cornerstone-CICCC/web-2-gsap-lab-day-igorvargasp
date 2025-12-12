@@ -54,6 +54,12 @@ section {
   background-color: #2ecc71;
 }
 
+.section3 p span {
+  background: white;
+  color: black;
+  display: inline-block;
+}
+
 .section4 {
   background-color: #9b59b6;
 }
